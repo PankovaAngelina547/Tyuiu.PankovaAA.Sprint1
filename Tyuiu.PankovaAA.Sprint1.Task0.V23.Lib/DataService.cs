@@ -5,7 +5,7 @@ namespace Tyuiu.PankovaAA.Sprint1.Task0.V23.Lib
     {
         public double Calculate()
         {
-            return (15.0/(5*4))+1;
+            return (15/5*4)+1;
         }
     }
 }
