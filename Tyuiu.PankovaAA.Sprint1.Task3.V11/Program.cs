@@ -45,7 +45,7 @@ namespace Tyuiu.PankovaAA.Sprint1.Task3.V11
 
       
 
-            Console.WriteLine("Площадь треугольника:" + ds.TriangleArea(x1,y1,x2,y2,x3,y3));
+            Console.WriteLine("Площадь треугольника:" + (ds.TriangleArea(x1,y1,x2,y2,x3,y3))*(-1));
 
         }
     }
