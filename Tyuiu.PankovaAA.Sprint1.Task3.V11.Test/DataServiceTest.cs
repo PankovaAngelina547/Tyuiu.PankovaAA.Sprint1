@@ -15,7 +15,7 @@ namespace Tyuiu.PankovaAA.Sprint1.Task3.V11.Test
             double x3 = 5;
             double y3 = -3;
             var res = ds.TriangleArea(x1, y1, x2, y2, x3, y3);
-            Assert.AreEqual(-39,res);
+            Assert.AreEqual(39,res);
 
         }
     }
