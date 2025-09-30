@@ -7,7 +7,7 @@ namespace Tyuiu.PankovaAA.Sprint1.Task5.V3.Test
         [TestMethod]
         public void ValidExpression()
         {
-            double x = 130985;
+            int x = 130985;
             DataService ds = new DataService();
             double res = ds.Calculate(x);
             int result = Convert.ToInt32(res);

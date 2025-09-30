@@ -22,7 +22,7 @@ namespace Tyuiu.PankovaAA.Sprint1.Task5.V3
             Console.WriteLine("*  ИСХОДНЫЕ ДАННЫЕ:                                                       *");
 
             Console.WriteLine("Введите k");
-            double x = Convert.ToDouble(Console.ReadLine());
+            int x = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*                                                                         *");
@@ -30,7 +30,7 @@ namespace Tyuiu.PankovaAA.Sprint1.Task5.V3
             Console.WriteLine("*  РЕЗУЛЬТАТ:                                                             *");
             Console.WriteLine("***************************************************************************");
 
-            int res = Convert.ToInt32(ds.Calculate(x));
+            double res = Convert.ToDouble(ds.Calculate(x));
             Console.WriteLine(res);
 
             Console.ReadKey();

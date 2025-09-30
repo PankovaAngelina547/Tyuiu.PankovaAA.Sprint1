@@ -5,7 +5,8 @@ namespace Tyuiu.PankovaAA.Sprint1.Task5.V3.Lib
     {
         public int Calculate(int x)
         {
-            return (x) % 100;
+            double res = (x / 100) % 10;
+            return (int) res;
         }
 
     }
