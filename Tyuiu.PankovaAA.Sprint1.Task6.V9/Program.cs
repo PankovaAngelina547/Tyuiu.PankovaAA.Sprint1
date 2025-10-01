@@ -28,7 +28,7 @@ namespace Tyuiu.PankovaAA.Sprint1.Task6.V9
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*  РЕЗУЛЬТАТ:                                                             *");
             Console.WriteLine("***************************************************************************");
-            var ds = new DataService();
+            
             string? result = ds.Calculate(input);
             Console.WriteLine("\nРЕЗУЛЬТАТ");
             Console.WriteLine(result);

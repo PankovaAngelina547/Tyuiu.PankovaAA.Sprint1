@@ -15,6 +15,7 @@ namespace Tyuiu.PankovaAA.Sprint1.Task6.V9.Lib
         public static string MoveLastToStart(string word)
         {
             if (string.IsNullOrEmpty(word) || word.Length == 1) return word;
+            return word[word.Length - 1]+ word.Substring(0, word.Length - 1);
         }
 
     }      
