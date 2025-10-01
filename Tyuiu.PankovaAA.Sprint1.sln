@@ -65,7 +65,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PankovaAA.Sprint1.Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PankovaAA.Sprint1.Task6.V9.Lib", "Tyuiu.PankovaAA.Sprint1.Task6.V9.Lib\Tyuiu.PankovaAA.Sprint1.Task6.V9.Lib.csproj", "{E158447E-324B-40BE-B18B-905EB8ACC7F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PankovaAA.Speint1.Task6.V9.Test", "Tyuiu.PankovaAA.Speint1.Task6.V9.Test\Tyuiu.PankovaAA.Speint1.Task6.V9.Test.csproj", "{03DD3F3E-208D-47F3-BD78-F1255D35F7C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PankovaAA.Sprint1.Task6.V9.Test", "Tyuiu.PankovaAA.Speint1.Task6.V9.Test\Tyuiu.PankovaAA.Sprint1.Task6.V9.Test.csproj", "{03DD3F3E-208D-47F3-BD78-F1255D35F7C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

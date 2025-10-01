@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 using Tyuiu.PankovaAA.Sprint1.Task6.V9.Lib;
-namespace Tyuiu.PankovaAA.Speint1.Task6.V9.Test
+namespace Tyuiu.PankovaAA.Sprint1.Task6.V9.Test
 {
     [TestClass]
     public sealed class DataServiceTest
