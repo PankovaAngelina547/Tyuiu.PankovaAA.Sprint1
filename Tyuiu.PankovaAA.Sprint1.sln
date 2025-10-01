@@ -65,7 +65,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PankovaAA.Sprint1.Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PankovaAA.Sprint1.Task6.V9.Lib", "Tyuiu.PankovaAA.Sprint1.Task6.V9.Lib\Tyuiu.PankovaAA.Sprint1.Task6.V9.Lib.csproj", "{E158447E-324B-40BE-B18B-905EB8ACC7F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PankovaAA.Sprint1.Task6.V9.Test", "Tyuiu.PankovaAA.Speint1.Task6.V9.Test\Tyuiu.PankovaAA.Sprint1.Task6.V9.Test.csproj", "{03DD3F3E-208D-47F3-BD78-F1255D35F7C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PankovaAA.Sprint1.Task6.V9.Test", "Tyuiu.PankovaAA.Sprint1.Task6.V9.Test\Tyuiu.PankovaAA.Sprint1.Task6.V9.Test.csproj", "{743FE40B-3562-4737-983D-A219E53B9BBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,10 +165,10 @@ Global
 		{E158447E-324B-40BE-B18B-905EB8ACC7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E158447E-324B-40BE-B18B-905EB8ACC7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E158447E-324B-40BE-B18B-905EB8ACC7F9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{03DD3F3E-208D-47F3-BD78-F1255D35F7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{03DD3F3E-208D-47F3-BD78-F1255D35F7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{03DD3F3E-208D-47F3-BD78-F1255D35F7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{03DD3F3E-208D-47F3-BD78-F1255D35F7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743FE40B-3562-4737-983D-A219E53B9BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743FE40B-3562-4737-983D-A219E53B9BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743FE40B-3562-4737-983D-A219E53B9BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743FE40B-3562-4737-983D-A219E53B9BBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -197,7 +197,7 @@ Global
 		{BDFAB3CD-029D-4126-9AFE-BB4343195CCD} = {1C6695FF-2257-4451-B7CC-BB150FD85A90}
 		{7852A1CB-7DA4-4869-AB11-29407F7670F7} = {B415ED62-2B96-42DD-AFEF-7732D88F82C8}
 		{E158447E-324B-40BE-B18B-905EB8ACC7F9} = {B415ED62-2B96-42DD-AFEF-7732D88F82C8}
-		{03DD3F3E-208D-47F3-BD78-F1255D35F7C0} = {B415ED62-2B96-42DD-AFEF-7732D88F82C8}
+		{743FE40B-3562-4737-983D-A219E53B9BBE} = {B415ED62-2B96-42DD-AFEF-7732D88F82C8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BA18EA49-B28C-460B-B0FF-416AD4DA5DCF}
