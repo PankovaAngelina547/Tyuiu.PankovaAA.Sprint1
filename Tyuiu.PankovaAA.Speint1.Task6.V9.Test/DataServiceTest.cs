@@ -19,7 +19,7 @@ namespace Tyuiu.PankovaAA.Speint1.Task6.V9.Test
         [TestMethod]
         public void TransformWholeText_PreserveWhitespace()
         {
-            var ds = new DataService();
+            DataService ds = new DataService();
             string input = "мир и труд";
             string expected = "рми и дтру";
             Assert.AreEqual(expected, ds.Calculate(input));
@@ -27,7 +27,7 @@ namespace Tyuiu.PankovaAA.Speint1.Task6.V9.Test
         [TestMethod]
         public void NullInput_ReturnsNull()
         {
-            var ds = new DataService();
+            DataService ds = new DataService();
             Assert.IsNull(ds.Calculate(null));
         }
     }
