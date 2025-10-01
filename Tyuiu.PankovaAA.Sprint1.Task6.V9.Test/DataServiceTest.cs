@@ -8,7 +8,7 @@ namespace Tyuiu.PankovaAA.Sprint1.Task6.V9.Test
         [TestMethod]
         public void ValidExpression()
         {
-            Assert.AreEqual("ohel", DataService.MoveLastToStart("hello"));
+            Assert.AreEqual("ohell", DataService.MoveLastToStart("hello"));
             Assert.AreEqual("рми", DataService.MoveLastToStart("мир"));
             Assert.AreEqual("а", DataService.MoveLastToStart("а"));
             Assert.AreEqual("", DataService.MoveLastToStart(""));
