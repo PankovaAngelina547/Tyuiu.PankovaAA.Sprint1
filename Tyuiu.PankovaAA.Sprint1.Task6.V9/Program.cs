@@ -21,17 +21,14 @@ namespace Tyuiu.PankovaAA.Sprint1.Task6.V9
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*  ИСХОДНЫЕ ДАННЫЕ:                                                       *");
 
-            Console.WriteLine("Введите текст");
             string? input = Console.ReadLine();
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*  РЕЗУЛЬТАТ:                                                             *");
             Console.WriteLine("***************************************************************************");
-            
-            string? result = ds.Calculate(input);
-            Console.WriteLine("\nРЕЗУЛЬТАТ");
-            Console.WriteLine(result);
+
+            Console.WriteLine(ds.MoveLetterToStart(input));
         }
     }
 }
